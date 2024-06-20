@@ -1,0 +1,108 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/html.png",
+      "title": "HTML",
+      "description": "I have learned HTML programming language from the Brassy Academy and Consulting."
+    },
+    {
+      "id": "2",
+      "src": "./img/css.png",
+      "title": "CSS",
+      "description": "I have learned CSS programming language from the Brassy Academy and Consulting."
+    },
+    {
+      "id": "3",
+      "src": "./img/javascript.png",
+      "title": "JAVASCRIPT",
+      "description": "I have learned javascript programming language from the Brassy Academy and Consulting."
+    },
+    {
+      "id": "4",
+      "src": "./img/bootstrap.png",
+      "title": "BOOTSTRAP",
+      "description": "I have learned Bootstrap programming language from the Brassy Academy and Consulting."
+    },
+    {
+      "id": "5",
+      "src": "./img/react.png",
+      "title": "REACT JS",
+      "description": "I have learned ReactJs programming language from the Brassy Academy and Consulting."
+    },
+    {
+      "id": "6",
+      "src": "./img/node.png",
+      "title": "NODE JS",
+      "description": "I have learned NodeJs programming language from the Brassy Academy and Consulting."
+    },
+    {
+      "id": "7",
+      "src": "./img/express.png",
+      "title": "EXPRESS JS",
+      "description": "I have learned ExpressJs programming language from the Brassy Academy and Consulting."
+    },
+    {
+      "id": "8",
+      "src": "./img/mongo.png",
+      "title": "MONGO DB",
+      "description": "I have learned MongoDB programming language from the Brassy Academy and Consulting."
+    }
+  ],
+  "project": [
+    {
+      "id": "1",
+      "src": "./img/emi.png",
+      "title": "EMI-Calculation",
+      "description": "I have completed my project EMI-Calculation using HTML, CSS, and JavaScript programming languages from Brassy Academy and Consulting.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/age.png",
+      "title": "Age-Calculation",
+      "description": "I have completed my project Age-Calculation using HTML, CSS, and JavaScript programming languages from Brassy Academy and Consulting.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/applic.png",
+      "title": "Application Form",
+      "description": "I have completed my project Application Form using React Js from Brassy Academy and Consulting.",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/Weather.png",
+      "title": "Weather App",
+      "description": "I have completed my project Weather App using React Js from Brassy Academy and Consulting.",
+      "link": "View In Github"
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "title": "MBA",
+      "src": "./img/jain.png",
+      "description": "I am currently pursuing an MBA in Information Technology Management at Jain University.",
+      "location": "Bengaluru, Karnataka",
+      "year": "2023 - 2025"
+    },
+    {
+      "id": "2",
+      "title": "Full Stack Developer",
+      "src": "./img/brassy.png",
+      "description": "I have completed my Full stack web development course from Brassy Academy and Consulting.",
+      "location": "Tirunelveli",
+      "year": "2023 - 2024"
+    },
+    {
+      "id": "3",
+      "title": "B.Com",
+      "src": "./img/sadakathullah.png",
+      "description": "I have completed my Bachelor of Commerce (B.Com) graduation from Sadakathullah Appa College.",
+      "location": "Tirunelveli",
+      "year": "2020 - 2023"
+    }
+  ]
+}
